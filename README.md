@@ -34,17 +34,10 @@ The property `dependencies` of the  `package.json` file is updated consequently,
 
 Finally to use this library in your AutoIt program, you need to include this library in the main program. There is no need for additional configuration to use it.
 
-
 ```autoit
 #include './vendor/@autoit-gui-skeleton/ags-wrapper-scrollbars/GUIScrollBars_Ex.au3'
 #include './vendor/@autoit-gui-skeleton/ags-wrapper-scrollbars/GUIScrollBars_Size.au3'
 ```
-
-Or you can add `Scrollbars.au3` to add this two libraries simultaneous :
-```autoit
-#include './vendor/@autoit-gui-skeleton/ags-wrapper-scrollbars/Scrollbars.au3'
-```
-
 
 <br/>
 
